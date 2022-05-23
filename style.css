@@ -1,0 +1,12 @@
+.book_image_div{
+	border: 1px solid #c7c7c7;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none
+}
+.book_image_div img{
+	width: 100%
+}
+.book_image_div hr{
+	width: 75%	
+}
